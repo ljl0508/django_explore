@@ -1,0 +1,8 @@
+#.py[cod] - wildcard notation in ".gitignore" that means the file may be ".pyc", ".pyo", or ".pyd"
+*.py[cod]
+__pycache__/
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
